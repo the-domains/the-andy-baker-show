@@ -1,14 +1,29 @@
+name: The Andy Baker Show
+favicon: null
 layout_spectrum: 0.6770658
 typography_spectrum: 0.5750422
+title: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.5507649
-  brandStrength: 0.5337268
-  saturation: 0.4123218
-  rhythmicContrast: 0.2815345
   brandColors:
     - '#283016'
     - '#F3E2E7'
     - '#ABB3C8'
     - '#6E7F3A'
     - '#5CABD9'
-name: The Andy Baker Show
+  brandStrength: 0.5337268
+  lightness: 0.5507649
+  saturation: 0.4123218
+  rhythmicContrast: 0.2815345
+purpose: []
