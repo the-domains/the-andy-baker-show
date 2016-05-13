@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'One of my favorite podcasts of late is Entrepreneur on Fire, or E-O-Fire for short. The basic idea is a guy (John Lee Dumas) interviewing entrepreneurs. Every day he speaks with someone about their entrepreneurial journey. Some are years into it. Some have just begun. It is a seven-day-a-week show.'
-datePublished: '2016-05-13T15:08:39.639Z'
-dateModified: '2016-05-13T15:08:35.801Z'
+datePublished: '2016-05-13T15:18:46.442Z'
+dateModified: '2016-05-13T15:18:39.107Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-simple-green-smoothies.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: simple-green-smoothies/index.html
 _type: Article
 
