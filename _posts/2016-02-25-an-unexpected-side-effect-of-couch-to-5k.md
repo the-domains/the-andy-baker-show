@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Yesterday was a surprisingly busy day. I got up at 7:15 and was sitting in front of my computer perusing my email at 8:00 when I read an email sent the night before that gave the time and address of where I was supposed to be at 10:00. The story of that day can be found here: xxx'
-datePublished: '2016-05-13T14:27:44.806Z'
-dateModified: '2016-05-13T14:25:34.641Z'
-title: An Unexpected Side Effect of Couch to 5K
+datePublished: '2016-05-13T15:03:15.121Z'
+dateModified: '2016-05-13T15:02:56.375Z'
+title: B - An Unexpected Side Effect of Couch to 5K
 author: []
 sourcePath: _posts/2016-02-25-an-unexpected-side-effect-of-couch-to-5k.md
 authors: []
@@ -21,7 +21,7 @@ url: an-unexpected-side-effect-of-couch-to-5k/index.html
 _type: Article
 
 ---
-# An Unexpected Side Effect of Couch to 5K
+# B - An Unexpected Side Effect of Couch to 5K
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2357b97-85ff-44a1-93a4-1fa9e639ccd9.jpg)
 
 Yesterday was a surprisingly busy day. I got up at 7:15 and was sitting in front of my computer perusing my email at 8:00 when I read an email sent the night before that gave the time and address of where I was supposed to be at 10:00\. The story of that day can be found here: xxx
