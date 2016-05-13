@@ -4,32 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: >-
-  Our
-
-  building has fourteen apartments. There are five floors and each floor has
-
-  three apartments, except the top floor, which has a terrace in place of the
-
-  third apartment. Nine of the apartments have balconies. All of the residents
-  in
-
-  the one line have to share the terrace. They don’t actually do that. Once in a
-
-  while (in good weather, so do the math), someone will have dinner out there,
-
-  but it actually goes unused most of the time. It’s mostly used by our
-  neighbor,
-
-  Pita, who only has to walk across the hall to use it. It’s right outside our
-
-  back door, across from our balcony, through a thin hedge of bamboo that Pita
-
-  planted years ago.
-datePublished: '2016-05-13T13:40:53.459Z'
-dateModified: '2016-05-13T13:30:02.403Z'
-title: ''
+description: 'Our building has fourteen apartments. There are five floors and each floor has three apartments, except the top floor, which has a terrace in place of the third apartment. Nine of the apartments have balconies. All of the residents in the one line have to share the terrace. They don’t actually do that. Once in a while (in good weather, so do the math), someone will have dinner out there, but it actually goes unused most of the time. It’s mostly used by our neighbor, Pita, who only has to walk across the hall to use it. It’s right outside our back door, across from our balcony, through a thin hedge of bamboo that Pita planted years ago.'
+datePublished: '2016-05-13T14:17:27.049Z'
+dateModified: '2016-05-13T14:17:26.356Z'
+title: People Around Us
 author: []
+sourcePath: _posts/2016-05-13-our-building-has-fourteen-apartments-there-are-five-floors.md
 authors: []
 publisher:
   name: null
@@ -37,21 +17,15 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-our-building-has-fourteen-apartments-there-are-five-floors.md
 url: our-building-has-fourteen-apartments-there-are-five-floors/index.html
 _type: Article
 
 ---
-Our
-building has fourteen apartments. There are five floors and each floor has
-three apartments, except the top floor, which has a terrace in place of the
-third apartment. Nine of the apartments have balconies. All of the residents in
-the one line have to share the terrace. They don't actually do that. Once in a
-while (in good weather, so do the math), someone will have dinner out there,
-but it actually goes unused most of the time. It's mostly used by our neighbor,
-Pita, who only has to walk across the hall to use it. It's right outside our
-back door, across from our balcony, through a thin hedge of bamboo that Pita
-planted years ago.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e1fad55-64d7-4a72-bf15-eaa4ff5c3b5d.jpg)
+
+# People Around Us
+
+Our building has fourteen apartments. There are five floors and each floor has three apartments, except the top floor, which has a terrace in place of the third apartment. Nine of the apartments have balconies. All of the residents in the one line have to share the terrace. They don't actually do that. Once in a while (in good weather, so do the math), someone will have dinner out there, but it actually goes unused most of the time. It's mostly used by our neighbor, Pita, who only has to walk across the hall to use it. It's right outside our back door, across from our balcony, through a thin hedge of bamboo that Pita planted years ago.
 
 As I relocated here from New York, I'm used to living in a building with strangers and not really knowing any of them. Here are the names of the people I know in the building: Pita. However, there's also The Priest (a retired priest), The Posh Couple (a hetero couple who are about ten years older than us), The Downstairs Neighbors, The Couple on the First Floor, The Man with Parkinson's and His Wife, The Indonesian Woman, and I think there's an Asian Couple. I also know that there is a family with three kids. They're Latino or something like that. They are probably renters. Also, it should be noted that The Indonesian 
 
@@ -68,7 +42,5 @@ The Downstairs Neighbors are fine. We have very little contact with them. I went
 "Yeah," I replied. "Except the guy downstairs has RAF, Resting Asshole Face." That's the male equivalent to resting bitch face. He always looks angry, like he's just been insulted or found out that someone dented the door of his expensive car. It's a pity. He's fairly handsome when he smiles. We saw them in a neighborhood bookstore the other day with their new baby. They were friendly. Can't imagine waking up next to that every day.
 
 I'm totally fine with our relationship with our neighbors. It might be nice to have one of those TV sitcom relationships, but it never happens. Even when we had a gay couple as neighbors it didn't happen. But the one was an older Dutch Jewish guy and the other was a younger (though not young) Latino who had palsy or something on the one side of his body. Nice enough guys, but no real click.
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e1fad55-64d7-4a72-bf15-eaa4ff5c3b5d.jpg)
 
 The anonymity of a city has always appealed to me. That whole everyone knowing your business thing that happens in small towns and suburbs creeps me out a bit. We all know certain things about each other, but we don't get close at all. We never socialize. What we do is know who lives here. We see each other come and go occasionally. There's a familiarity and that's enough.
