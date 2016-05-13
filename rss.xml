@@ -4,8 +4,15 @@
         <description><![CDATA[The Andy Baker Show]]></description>
         <link>https://thegrid.ai/the-andy-baker-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 14:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 15:02:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-andy-baker-show/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A - We Don’t Do Valentine’s Day]]></title>
+            <description><![CDATA[<article><h1>A - We Don’t Do Valentine’s Day</h1><p>Fred is not a fan of ‘imported American holidays’. I think that’s a term that I came up with. I can’t imagine him actually saying that, although I’ve attributed the sentiment to him for years. This goes for Halloween as well as Valentine’s Day.</p></article>]]></description>
+            <link>https://thegrid.ai/the-andy-baker-show/03b18352-0f80-4f6b-a19f-10df10cd8917/index.html</link>
+            <guid isPermaLink="false">03b18352-0f80-4f6b-a19f-10df10cd8917</guid>
+            <pubDate>Fri, 13 May 2016 15:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A - People Around Us]]></title>
             <description><![CDATA[<article><h1>A - People Around Us</h1><p>Our building has fourteen apartments. There are five floors and each floor has three apartments, except the top floor, which has a terrace in place of the third apartment. Nine of the apartments have balconies. All of the residents in the one line have to share the terrace. They don’t actually do that. Once in a while (in good weather, so do the math), someone will have dinner out there, but it actually goes unused most of the time. It’s mostly used by our neighbor, Pita, who only has to walk across the hall to use it. It’s right outside our back door, across from our balcony, through a thin hedge of bamboo that Pita planted years ago.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e1fad55-64d7-4a72-bf15-eaa4ff5c3b5d.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/the-andy-baker-show/simple-green-smoothies/index.html</link>
             <guid isPermaLink="false">2109e929-938b-4891-bf33-b338b70d82ea</guid>
             <pubDate>Fri, 13 May 2016 14:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[We Don’t Do Valentine’s Day]]></title>
-            <description><![CDATA[<article><h1>We Don’t Do Valentine’s Day</h1><p>Fred is not a fan of ‘imported American holidays’. I think that’s a term that I came up with. I can’t imagine him actually saying that, although I’ve attributed the sentiment to him for years. This goes for Halloween as well as Valentine’s Day.</p></article>]]></description>
-            <link>https://thegrid.ai/the-andy-baker-show/03b18352-0f80-4f6b-a19f-10df10cd8917/index.html</link>
-            <guid isPermaLink="false">03b18352-0f80-4f6b-a19f-10df10cd8917</guid>
-            <pubDate>Fri, 13 May 2016 14:27:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
