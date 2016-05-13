@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Our building has fourteen apartments. There are five floors and each floor has three apartments, except the top floor, which has a terrace in place of the third apartment. Nine of the apartments have balconies. All of the residents in the one line have to share the terrace. They don’t actually do that. Once in a while (in good weather, so do the math), someone will have dinner out there, but it actually goes unused most of the time. It’s mostly used by our neighbor, Pita, who only has to walk across the hall to use it. It’s right outside our back door, across from our balcony, through a thin hedge of bamboo that Pita planted years ago.'
-datePublished: '2016-05-13T14:17:27.049Z'
-dateModified: '2016-05-13T14:17:26.356Z'
+datePublished: '2016-05-13T14:27:24.404Z'
+dateModified: '2016-05-13T14:23:22.944Z'
 title: People Around Us
 author: []
 sourcePath: _posts/2016-05-13-our-building-has-fourteen-apartments-there-are-five-floors.md
@@ -21,9 +21,8 @@ url: our-building-has-fourteen-apartments-there-are-five-floors/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e1fad55-64d7-4a72-bf15-eaa4ff5c3b5d.jpg)
-
 # People Around Us
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e1fad55-64d7-4a72-bf15-eaa4ff5c3b5d.jpg)
 
 Our building has fourteen apartments. There are five floors and each floor has three apartments, except the top floor, which has a terrace in place of the third apartment. Nine of the apartments have balconies. All of the residents in the one line have to share the terrace. They don't actually do that. Once in a while (in good weather, so do the math), someone will have dinner out there, but it actually goes unused most of the time. It's mostly used by our neighbor, Pita, who only has to walk across the hall to use it. It's right outside our back door, across from our balcony, through a thin hedge of bamboo that Pita planted years ago.
 
