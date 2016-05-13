@@ -4,8 +4,15 @@
         <description><![CDATA[The Andy Baker Show]]></description>
         <link>https://thegrid.ai/the-andy-baker-show/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 15:02:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 15:03:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-andy-baker-show/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We saw Brooklyn last night. I got the DVD from Noreen who had borrowed it from Tom, whose husband had brought it from Singapore, so it was a black market copy. I’m okay with that. It’s the exception to the rule. The rule is Netflix. The rule used to be that Fred would buy DVDs from Amazon and we’d watch them once. We’re big series watchers.</p>]]></description>
+            <link>https://thegrid.ai/the-andy-baker-show/brooklyn/index.html</link>
+            <guid isPermaLink="false">601eac28-82ab-4aee-a315-312293d3a571</guid>
+            <pubDate>Fri, 13 May 2016 15:03:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16520c9f-a810-47bc-b397-5140a68ddcf0.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/the-andy-baker-show/an-unexpected-side-effect-of-couch-to-5k/index.html</link>
             <guid isPermaLink="false">c66f6a8c-5aba-47fc-9428-aff92afe7d64</guid>
             <pubDate>Fri, 13 May 2016 14:27:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We saw Brooklyn last night. I got the DVD from Noreen who had borrowed it from Tom, whose husband had brought it from Singapore, so it was a black market copy. I’m okay with that. It’s the exception to the rule. The rule is Netflix. The rule used to be that Fred would buy DVDs from Amazon and we’d watch them once. We’re big series watchers.</p>]]></description>
-            <link>https://thegrid.ai/the-andy-baker-show/brooklyn/index.html</link>
-            <guid isPermaLink="false">601eac28-82ab-4aee-a315-312293d3a571</guid>
-            <pubDate>Fri, 13 May 2016 14:27:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
