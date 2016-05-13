@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Yesterday was a surprisingly busy day. I got up at 7:15 and was sitting in front of my computer perusing my email at 8:00 when I read an email sent the night before that gave the time and address of where I was supposed to be at 10:00. The story of that day can be found here: xxx'
-datePublished: '2016-05-13T14:24:50.594Z'
-dateModified: '2016-05-13T14:22:34.818Z'
+datePublished: '2016-05-13T14:27:44.806Z'
+dateModified: '2016-05-13T14:25:34.641Z'
 title: An Unexpected Side Effect of Couch to 5K
 author: []
 sourcePath: _posts/2016-02-25-an-unexpected-side-effect-of-couch-to-5k.md
@@ -22,6 +22,7 @@ _type: Article
 
 ---
 # An Unexpected Side Effect of Couch to 5K
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2357b97-85ff-44a1-93a4-1fa9e639ccd9.jpg)
 
 Yesterday was a surprisingly busy day. I got up at 7:15 and was sitting in front of my computer perusing my email at 8:00 when I read an email sent the night before that gave the time and address of where I was supposed to be at 10:00\. The story of that day can be found here: xxx
 
@@ -46,5 +47,3 @@ My newly trim sister, Kathy, went indoor rock climbing the other day. I found my
 By the way, the pushups progress is interesting. If I stay on schedule, and I probably will, I will be at 100 pushups by the end of March -- for the record, they are done in five blocks of 20 with a 90 second break in between. I'll also be running for 35 minutes at a stretch by mid-March. Now I'm looking at my stomach and wondering what kind of abdominal regimen I'm going to find. I've been avoiding the abs. I don't really have a problem with that area, but I can see tightening them up. I'm 50\. My body has changed. I wouldn't mind seeing what I could do with what's there.
 
 So that's what happened. I seem to be going down the slippery slope of good health. I'm ready to see where this path leads me. By the way, I'll do yesterday's run today so I'll stay on track. Progress, not perfection.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2357b97-85ff-44a1-93a4-1fa9e639ccd9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/268a73f9-050c-4b16-9fd6-7291b9403938.jpg)
