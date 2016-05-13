@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'One of my favorite podcasts of late is Entrepreneur on Fire, or E-O-Fire for short. The basic idea is a guy (John Lee Dumas) interviewing entrepreneurs. Every day he speaks with someone about their entrepreneurial journey. Some are years into it. Some have just begun. It is a seven-day-a-week show.'
-datePublished: '2016-05-13T14:24:04.910Z'
-dateModified: '2016-05-13T13:51:18.218Z'
+datePublished: '2016-05-13T14:27:28.199Z'
+dateModified: '2016-05-13T14:26:14.823Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-13-simple-green-smoothies.md
@@ -22,6 +22,7 @@ _type: Article
 
 ---
 # Simple Green Smoothies
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16520c9f-a810-47bc-b397-5140a68ddcf0.jpg)
 
 One of my favorite podcasts of late is Entrepreneur on Fire, or E-O-Fire for short. The basic idea is a guy (John Lee Dumas) interviewing entrepreneurs. Every day he speaks with someone about their entrepreneurial journey. Some are years into it. Some have just begun. It is a seven-day-a-week show.
 
@@ -36,4 +37,3 @@ I'm currently smack dab in the middle of a 30-day smoothie challenge. I think th
 Here's one little experiment I did that is worth mentioning. We had a half bag of salad that was right at the point of going off, but it was still good. I threw some kale into the blender and then thought, "Why not?" And I threw the salad in. Maybe not such a great choice. Kale has a definite taste, as does spinach, but it's sort of innocuous and hidden with the fruit. Some of the salad greens really stood out. They poked their little heads out from the smells and tastes of the fruit and my mouth and nose were like, "Uh...what are you doing here? Were you invited?" I probably won't do it again.
 
 So I'm loving the smoothies. It feels very healthy and it's a good way to bring all those trace minerals and stuff into my new, healthy life style.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16520c9f-a810-47bc-b397-5140a68ddcf0.jpg)
