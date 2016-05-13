@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Simple Green Smoothies
-datePublished: '2016-05-13T13:40:53.856Z'
-dateModified: '2016-05-13T13:28:48.647Z'
+description: 'One of my favorite podcasts of late is Entrepreneur on Fire, or E-O-Fire for short. The basic idea is a guy (John Lee Dumas) interviewing entrepreneurs. Every day he speaks with someone about their entrepreneurial journey. Some are years into it. Some have just begun. It is a seven-day-a-week show.'
+datePublished: '2016-05-13T14:24:04.910Z'
+dateModified: '2016-05-13T13:51:18.218Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-13-simple-green-smoothies.md
 authors: []
 publisher:
   name: null
@@ -16,12 +17,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-13-simple-green-smoothies.md
 url: simple-green-smoothies/index.html
 _type: Article
 
 ---
-Simple Green Smoothies
+# Simple Green Smoothies
 
 One of my favorite podcasts of late is Entrepreneur on Fire, or E-O-Fire for short. The basic idea is a guy (John Lee Dumas) interviewing entrepreneurs. Every day he speaks with someone about their entrepreneurial journey. Some are years into it. Some have just begun. It is a seven-day-a-week show.
 
