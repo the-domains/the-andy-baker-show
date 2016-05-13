@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Towards the end of the last part of 2015, I read an article in the Huffington Post about the benefits of running. I don’t even think it was specifically about the benefits of running for ‘older’ people. I think it was the article about the benefits of running that don’t have to do with losing weight , which is not one of my (several) issues.'
-datePublished: '2016-05-13T14:27:51.042Z'
-dateModified: '2016-05-13T14:26:37.409Z'
-title: I’ve Begun to Run
+datePublished: '2016-05-13T15:03:24.254Z'
+dateModified: '2016-05-13T15:03:05.100Z'
+title: B - I’ve Begun to Run
 author: []
 sourcePath: _posts/2016-02-25-ive-begun-to-run.md
 authors: []
@@ -21,7 +21,7 @@ url: ive-begun-to-run/index.html
 _type: Article
 
 ---
-# I've Begun to Run
+# B - I've Begun to Run
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac77ae4d-62b8-4f96-b3ae-95e1239814ec.jpg)
 
 Towards the end of the last part of 2015, I read an article in the [Huffington Post][0] about the benefits of running. I don't even think it was specifically about the benefits of running for 'older' people. I think it was [the article about the benefits of running that don't have to do with losing weight ][1], which is not one of my (several) issues.
