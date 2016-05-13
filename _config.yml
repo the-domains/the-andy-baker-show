@@ -1,6 +1,6 @@
 name: The Andy Baker Show
 favicon: null
-layout_spectrum: 0.84715
+layout_spectrum: 0.39589
 typography_spectrum: 0.35999
 title: The Andy Baker Show
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0e1422'
-    - '#99acbc'
-    - '#fffeff'
-    - '#e9dcb0'
-    - '#675b3f'
+    - '#121d1f'
+    - '#c1b5a7'
+    - '#868688'
+    - '#b9d4ff'
+    - '#6b5f49'
   brandStrength: 0.5625
   lightness: 0.5507649
   saturation: 0.4375
